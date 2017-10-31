@@ -20,4 +20,5 @@ pytz==2017.2
 requests==2.14.2
 six==1.10.0
 stripe==1.55.2
+whitenoise==3.2
 git+https://github.com/aaronsnig501/reusable-blog-app.git
